@@ -1,2 +1,3 @@
 # My-learning-at-YBI-foundation
-My projects
+I am learning at YBI foundation 
+free internship for 15 days in data science 
